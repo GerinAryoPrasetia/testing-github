@@ -1,0 +1,18 @@
+1. Percabangan
+2. Perulangan
+3. Variable
+4. Array
+
+- Manipulasi Array 
+    -> Ubah nilai yang ada di dalam array jika bilangan prima
+    -> Tampilkan nilai akhir dari array
+    -> console.log setiap iterasi bilangan prima nya
+
+
+- Github
+    PUSH
+    0. git init
+    1. git add .
+    2. git commit -m "commit message"
+    3. git remote add origin linkrepo.com
+    4. git push -u origin master
